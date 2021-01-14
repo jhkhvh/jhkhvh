@@ -2,6 +2,7 @@
 	"name": "jhk",
 	"description": "Gernades Helper", 
 	"update_timestamp": 1610418059 , 
+	"url": "https://raw.githubusercontent.com/jhkhvh/jhkhvh/main/HVH",
 	"locations": {
 		"de_mirage": [
   {
@@ -679,6 +680,12 @@
     "grenade": {
       "jump": true
     }
+  },
+  {
+  "name": ["Stairs", "A-default"],
+  "weapon": "weapon_molotov",
+  "position": [-525.85131835938, -1385.7946777344, -120.12418365479],
+  "viewangles": [-3.8964939117432, -74.06519317627]
   },
   {
     "name": ["B Default", "B Apps"],
