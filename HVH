@@ -93,7 +93,19 @@
     "position": [-34.44019317627, 760.02191162109, -135.96875],
     "viewangles": [-30.571109771729, -176.93731689453],
     "duck": true
- }, 
+ },
+   {
+    "name": ["Stairs", "Catwalk"],
+    "weapon": "weapon_molotov",
+    "position": [-492.08917236328, -1612.6115722656, -39.96875],
+    "viewangles": [-3.5451784133911, 91.129425048828],
+    "grenade": {
+      "strength": 0.5,
+      "run": 14,
+      "delay": 6,
+      "jump": true
+    }
+ },
   {
     "name": ["Jungle", "Ramp"],
     "weapon": "weapon_hegrenade",
