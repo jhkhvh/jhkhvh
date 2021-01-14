@@ -60,6 +60,43 @@
     }
   },
   {
+    "name": ["Side Alley", "T-spawn"],
+    "weapon": "weapon_molotov",
+    "position": [327.40081787109, 286.15438842773, -262.33126831055],
+    "viewangles": [-15.879642486572, 43.966438293457],
+    "grenade": {
+      "run": 21
+    }
+  },
+  {
+    "name": ["T-spawn", "Side Alley"],
+    "weapon": "weapon_molotov",
+    "position": [1117.8666992188, 326.79663085938, -260.94934082031],
+    "viewangles": [-16.631999969482, 141.63775634766],
+    "grenade": {
+      "run": 27
+    }
+  },
+  {
+    "name": ["Back Alley", "TV Sofa and door"],
+    "description": "Move Right while throwing",
+    "weapon": "weapon_molotov",
+    "position": [-306.54931640625, 709.71850585938, -86.190147399902],
+    "viewangles": [2.8589932918549, 16.820430755615],
+    "grenade": {
+      "run": 19
+    }
+  },
+  {
+    "name": ["TV", "Back Alley"],
+    "description": "You will get damaged and be accurate",
+    "weapon": "weapon_molotov",
+    "position": [-34.44019317627, 760.02191162109, -135.96875],
+    "viewangles": [-30.571109771729, -176.93731689453],
+    "duck": true
+  }
+ }, 
+  {
     "name": ["Jungle", "Ramp"],
     "weapon": "weapon_hegrenade",
     "position": [-1119.96875, -1527.0847167969, -156.07110595703],
